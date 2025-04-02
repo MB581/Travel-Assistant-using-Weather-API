@@ -92,10 +92,3 @@ To further improve the system, the following upgrades are planned:
 These improvements aim to make the Travel Assistant **more robust, accessible, and user-friendly**.  
 
 ---  
-
-## 📄 License  
-This project is developed as part of the **Capstone Project in AI** and is intended for **educational and research purposes**. The source code and implementation details can be used under open-source licensing norms, with proper attribution to contributors.  
-
----  
-
-This expanded version makes the README more detailed and professional. Let me know if you need further modifications! 🚀
