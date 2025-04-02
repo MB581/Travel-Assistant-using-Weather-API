@@ -48,7 +48,8 @@ This system ensures that travelers are well-informed about the environmental con
 <br>- **✈️ Flight Status:** Potential delays or cancellations for flights to the selected destination.  
 <br>- **📞 Emergency Contacts:** Important local emergency numbers, such as ambulance services, police assistance, and travel hotlines.  
 
-*(Attach a screenshot of the email response here to provide a visual reference.)*  
+![WhatsApp Image 2025-04-02 at 21 59 21](https://github.com/user-attachments/assets/1b30286c-ce57-4060-997d-08e73017e0b3)
+
 
 ---  
 
