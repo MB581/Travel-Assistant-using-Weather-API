@@ -34,19 +34,18 @@ This system ensures that travelers are well-informed about the environmental con
 
 >## 📩 Email Response Details  
 >>The final response is formatted as a well-structured email, making it easy for users to access important information at a glance. The email includes:  
-
->>### 📊 **Weather Forecast Details**  
+<br>1️⃣ 📊 **Weather Forecast Details**  
 <br>- **📍 Location:** The selected destination for which the user requested assistance.  
 <br>- **🌡️ Temperature:** Current temperature in degrees Celsius.  
 <br>- **💧 Humidity:** Percentage of humidity levels, which can affect comfort and respiratory conditions.  
 <br>- **💨 Wind Speed:** Speed of the wind, which is crucial for activities like hiking, cycling, or outdoor events.  
 <br>- **🔍 Forecast Summary:** A short description of the expected weather conditions, such as "Sunny," "Rainy," or "Snowfall."  
 
->>### ⚠️ **Health & Safety Advisory**  
+<br>2️⃣ ⚠️ **Health & Safety Advisory**  
 <br>- **🚨 Health Risks:** Alerts about extreme weather conditions that may pose health concerns (e.g., dehydration due to heat waves, frostbite risks in extremely cold temperatures, or breathing difficulties in polluted areas).  
 <br>- **✅ Precautionary Measures:** Recommendations to ensure safety, such as **staying hydrated**, **wearing appropriate clothing**, and **avoiding outdoor activities during extreme weather hours**.  
 
->>### 🏝️ **Travel Safety Insights**  
+<br>3️⃣ 🏝️ **Travel Safety Insights**  
 <br>- **🚗 Road Conditions:** Updates on possible disruptions due to heavy rains, snowfall, or storms that could affect transportation.  
 <br>- **✈️ Flight Status:** Potential delays or cancellations for flights to the selected destination.  
 <br>- **📞 Emergency Contacts:** Important local emergency numbers, such as ambulance services, police assistance, and travel hotlines.  
