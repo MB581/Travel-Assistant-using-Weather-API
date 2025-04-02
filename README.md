@@ -60,10 +60,9 @@ This system ensures that travelers are well-informed about the environmental con
 <br>🔹 **Email Notification System:** After processing, the system formats the results into an easy-to-read email and sends it to the traveler.  
 <br>This **seamless automation** ensures that users receive fast, accurate, and personalized travel assistance without any hassle.  
 
-![WhatsApp Image 2025-04-02 at 18 22 46](https://github.com/user-attachments/assets/5e9f2f35-1236-47e1-8f05-31ea2f29f890)
-![Wh![WhatsApp Image 2025-04-02 at 18 22 02](https://github.com/user-attachments/assets/f2f94d90-681e-4e2b-b29a-515002462479)
-atsApp Image 2025-04-02 at 18 22 28](https://github.com/user-attachments/assets/5932fdc2-abbf-406d-8d99-77ee1ad29c9b)
-
+![WhatsApp Image 2025-04-02 at 18 22 46](https://github.com/user-attachments/assets/6d01944a-380b-4e86-9e6f-32b89a66e442)
+![WhatsApp Image 2025-04-02 at 18 22 28](https://github.com/user-attachments/assets/fb845f18-1bf6-4a30-bd13-70334fbbed90)
+![WhatsApp Image 2025-04-02 at 18 22 02](https://github.com/user-attachments/assets/c8baf26f-3780-4778-93a0-99a2f9ee29f1)
 
 ---  
 
