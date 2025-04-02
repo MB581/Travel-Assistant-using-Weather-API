@@ -40,11 +40,9 @@ This system ensures that travelers are well-informed about the environmental con
 <br>- **💧 Humidity:** Percentage of humidity levels, which can affect comfort and respiratory conditions.  
 <br>- **💨 Wind Speed:** Speed of the wind, which is crucial for activities like hiking, cycling, or outdoor events.  
 <br>- **🔍 Forecast Summary:** A short description of the expected weather conditions, such as "Sunny," "Rainy," or "Snowfall."  
-
 <br>2️⃣ ⚠️ **Health & Safety Advisory**  
 <br>- **🚨 Health Risks:** Alerts about extreme weather conditions that may pose health concerns (e.g., dehydration due to heat waves, frostbite risks in extremely cold temperatures, or breathing difficulties in polluted areas).  
 <br>- **✅ Precautionary Measures:** Recommendations to ensure safety, such as **staying hydrated**, **wearing appropriate clothing**, and **avoiding outdoor activities during extreme weather hours**.  
-
 <br>3️⃣ 🏝️ **Travel Safety Insights**  
 <br>- **🚗 Road Conditions:** Updates on possible disruptions due to heavy rains, snowfall, or storms that could affect transportation.  
 <br>- **✈️ Flight Status:** Potential delays or cancellations for flights to the selected destination.  
@@ -55,34 +53,33 @@ This system ensures that travelers are well-informed about the environmental con
 ---  
 
 ## 🔎 n8n Workflow Implementation  
-This project utilizes **n8n**, a **low-code workflow automation tool**, to streamline the process of gathering and delivering weather insights.  
+>This project utilizes **n8n**, a **low-code workflow automation tool**, to streamline the process of gathering and delivering weather insights.  
+<br>🔹 **Automated Query Processing:** The system is designed to handle multiple location requests dynamically, eliminating the need for manual intervention.  
+<br>🔹 **API Integration:** The workflow connects with **OpenWeatherMap API** to fetch real-time weather data.  
+<br>🔹 **Data Processing & Filtering:** The AI processes raw weather data, filters out unnecessary information, and generates **meaningful insights**.  
+<br>🔹 **Email Notification System:** After processing, the system formats the results into an easy-to-read email and sends it to the traveler.  
+<br>This **seamless automation** ensures that users receive fast, accurate, and personalized travel assistance without any hassle.  
 
-🔹 **Automated Query Processing:** The system is designed to handle multiple location requests dynamically, eliminating the need for manual intervention.  
-🔹 **API Integration:** The workflow connects with **OpenWeatherMap API** to fetch real-time weather data.  
-🔹 **Data Processing & Filtering:** The AI processes raw weather data, filters out unnecessary information, and generates **meaningful insights**.  
-🔹 **Email Notification System:** After processing, the system formats the results into an easy-to-read email and sends it to the traveler.  
+![WhatsApp Image 2025-04-02 at 18 22 46](https://github.com/user-attachments/assets/5e9f2f35-1236-47e1-8f05-31ea2f29f890)
+![Wh![WhatsApp Image 2025-04-02 at 18 22 02](https://github.com/user-attachments/assets/f2f94d90-681e-4e2b-b29a-515002462479)
+atsApp Image 2025-04-02 at 18 22 28](https://github.com/user-attachments/assets/5932fdc2-abbf-406d-8d99-77ee1ad29c9b)
 
-This **seamless automation** ensures that users receive fast, accurate, and personalized travel assistance without any hassle.  
-
-*(Attach snapshots of the n8n workflow setup and execution here.)*  
 
 ---  
 
 ## 📸 Snapshots  
-Visual representation of the project enhances clarity. Attachments should include:  
+>Visual representation of the project enhances clarity. Attachments should include:  
 - 📷 Screenshot of the **n8n workflow**, illustrating the step-by-step process.  
 - 📷 Image of the **email response**, showcasing how the assistant delivers information.  
 
 ---  
 
 ## 📌 Future Enhancements  
-To further improve the system, the following upgrades are planned:  
-
-🚀 **Multi-API Integration:** Connecting with additional weather data sources to improve accuracy.  
-🚀 **Predictive AI Modeling:** Using AI-driven predictions to forecast weather trends beyond standard API forecasts.  
-🚀 **Voice & Chatbot Integration:** Expanding the assistant's capabilities to voice and chatbot platforms for more interactive user experiences.  
-🚀 **Integration with Travel Platforms:** Collaborating with travel booking services to provide itinerary-based weather alerts.  
-
-These improvements aim to make the Travel Assistant **more robust, accessible, and user-friendly**.  
+>To further improve the system, the following upgrades are planned:  
+<br>🚀 **Multi-API Integration:** Connecting with additional weather data sources to improve accuracy.  
+<br>🚀 **Predictive AI Modeling:** Using AI-driven predictions to forecast weather trends beyond standard API forecasts.  
+<br>🚀 **Voice & Chatbot Integration:** Expanding the assistant's capabilities to voice and chatbot platforms for more interactive user experiences.  
+<br>🚀 **Integration with Travel Platforms:** Collaborating with travel booking services to provide itinerary-based weather alerts.  
+<br>These improvements aim to make the Travel Assistant **more robust, accessible, and user-friendly**.  
 
 ---  
