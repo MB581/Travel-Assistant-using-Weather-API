@@ -61,15 +61,10 @@ This system ensures that travelers are well-informed about the environmental con
 <br>This **seamless automation** ensures that users receive fast, accurate, and personalized travel assistance without any hassle.  
 
 ![WhatsApp Image 2025-04-02 at 18 22 46](https://github.com/user-attachments/assets/6d01944a-380b-4e86-9e6f-32b89a66e442)
+
 ![WhatsApp Image 2025-04-02 at 18 22 28](https://github.com/user-attachments/assets/fb845f18-1bf6-4a30-bd13-70334fbbed90)
+
 ![WhatsApp Image 2025-04-02 at 18 22 02](https://github.com/user-attachments/assets/c8baf26f-3780-4778-93a0-99a2f9ee29f1)
-
----  
-
-## 📸 Snapshots  
->Visual representation of the project enhances clarity. Attachments should include:  
-- 📷 Screenshot of the **n8n workflow**, illustrating the step-by-step process.  
-- 📷 Image of the **email response**, showcasing how the assistant delivers information.  
 
 ---  
 
