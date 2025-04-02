@@ -1,11 +1,12 @@
 # 🌍 Travel Assistant using Weather API  
 
 >## 🔍 Introduction  
+
 >>Traveling is an exciting experience, but it also comes with challenges, particularly when it comes to unpredictable weather conditions, health concerns, and safety risks. Travelers often face difficulties in assessing the impact of weather on their journey, which can lead to discomfort, disruptions, or even health hazards.  
 
->>To address this issue, we have developed an **AI-powered Travel Assistant** that provides real-time weather updates, health risk advisories, and travel safety recommendations. By leveraging **n8n**, an automation workflow tool, and the **OpenWeatherMap API**, the assistant processes and delivers **personalized travel insights** to users.  
+To address this issue, we have developed an **AI-powered Travel Assistant** that provides real-time weather updates, health risk advisories, and travel safety recommendations. By leveraging **n8n**, an automation workflow tool, and the **OpenWeatherMap API**, the assistant processes and delivers **personalized travel insights** to users.  
 
->>This system ensures that travelers are well-informed about the environmental conditions of their destination, allowing them to plan their trip efficiently and minimize unexpected complications.  
+This system ensures that travelers are well-informed about the environmental conditions of their destination, allowing them to plan their trip efficiently and minimize unexpected complications.  
 
 ---  
 
